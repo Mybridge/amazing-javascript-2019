@@ -1,7 +1,7 @@
 # amazing-javascript-2019
 48 Amazing JavaScript Open Source for the Past Year (v.2019)
 
-<a href="https://medium.com/@Mybridge/48-amazing-javascript-open-source-for-the-past-year-v-2019-ce51cdd10fb9"><img src="js-opensource-2019.png" width="800" alt="Mybridge"></a>
+<a href="https://medium.com/@Mybridge/48-amazing-javascript-open-source-for-the-past-year-v-2019-ce51cdd10fb9"><img src="js-opensource.png" width="800" alt="Mybridge"></a>
 
 For the past year, we’ve compared nearly 20,000 JavaScript open source projects and libraries to pick Top 48 (0.24% chance).
 
